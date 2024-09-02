@@ -15,5 +15,9 @@ Edwin | [@edwiee](https://github.com/edwiee)
 <code><img height="30" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>&nbsp;&nbsp;
 
 
+#
+### 🌿 Quick Look 
+https://github.com/user-attachments/assets/d9688d44-d519-4adb-a164-71ad0ca28674
+
 ----
 <p align = "center"><samp>Made with ❤️ - <a href = "https://github.com/edwiee">edwiee</a></samp></p>
