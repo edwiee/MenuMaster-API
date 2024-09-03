@@ -14,6 +14,9 @@ Edwin | [@edwiee](https://github.com/edwiee)
 <code><img height="30" alt="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>&nbsp;&nbsp;
 <code><img height="30" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>&nbsp;&nbsp;
 
+#
+### 🧸 Quick Look
+![DEMO(https://github.com/user-attachments/assets/cfafd142-00c1-4d5a-b3d2-8bdc0ea1c1ce)](https://github.com/user-attachments/assets/cfafd142-00c1-4d5a-b3d2-8bdc0ea1c1ce)
 
 ----
 <p align = "center"><samp>Made with ❤️ - <a href = "https://github.com/edwiee">edwiee</a></samp></p>
